@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>ending_state</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-17 14:56:50</sys_created_on>
+        <sys_id>b8b77d6edb13130043fc9444ca961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ending_state</sys_name>
+        <sys_package display_value="Test123" source="x_11849_test123">66a7b16edb13130043fc9444ca96195d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test123">66a7b16edb13130043fc9444ca96195d</sys_scope>
+        <sys_update_name>sys_ui_policy_action_b8b77d6edb13130043fc9444ca961915</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-17 14:56:50</sys_updated_on>
+        <table>x_11849_test123_sf_task</table>
+        <ui_policy display_value="Hide start and end state">74b77d6edb13130043fc9444ca961912</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Test123 Catalog">c2c7b1aedb13130043fc9444ca96190b</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-17 14:57:12</sys_created_on>
+        <sys_id>82c7b1aedb13130043fc9444ca96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test123 Catalog.catalog_test123_catalog</sys_name>
+        <sys_package display_value="Test123" source="x_11849_test123">66a7b16edb13130043fc9444ca96195d</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_test123_catalog">46c7b1aedb13130043fc9444ca96190e</sys_portal_page>
+        <sys_scope display_value="Test123">66a7b16edb13130043fc9444ca96195d</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_82c7b1aedb13130043fc9444ca96190f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-17 14:57:12</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

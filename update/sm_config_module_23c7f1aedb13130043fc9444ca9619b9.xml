@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config_module">
+    <sm_config_module action="INSERT_OR_UPDATE">
+        <app_name display_value="Test123">5fc7f1aedb13130043fc9444ca961965</app_name>
+        <aspect>geolocation_maps</aspect>
+        <associated_mobile_module/>
+        <associated_module display_value="My SLA Map">27c7f1aedb13130043fc9444ca9619b7</associated_module>
+        <on>true</on>
+        <sys_class_name>sm_config_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-17 14:57:18</sys_created_on>
+        <sys_id>23c7f1aedb13130043fc9444ca9619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5fc7f1aedb13130043fc9444ca961965</sys_name>
+        <sys_package display_value="Test123" source="x_11849_test123">66a7b16edb13130043fc9444ca96195d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test123">66a7b16edb13130043fc9444ca96195d</sys_scope>
+        <sys_update_name>sm_config_module_23c7f1aedb13130043fc9444ca9619b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-17 14:57:18</sys_updated_on>
+    </sm_config_module>
+</record_update>

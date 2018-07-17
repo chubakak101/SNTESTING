@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_in_email_action">
+    <sysevent_in_email_action action="INSERT_OR_UPDATE">
+        <action>record_action</action>
+        <active>true</active>
+        <assignment_operator/>
+        <condition_script>(new sn_sm.SMConfiguration()).isEnabled("test123", "inbound_email", false)</condition_script>
+        <description>All update emails will be added in the work notes</description>
+        <event_name>email.read</event_name>
+        <filter_condition/>
+        <from/>
+        <name>Update Test123 Request</name>
+        <order>70</order>
+        <reply_email/>
+        <required_roles/>
+        <script><![CDATA[if (current.getTableName() == "x_11849_test123_request") {
+	var bodyText = email.body_text;
+	if (!bodyText)
+		bodyText = email.body_html;
+	current.work_notes = "Reply from: " + email.origemail + "\n\n" + email.subject + "\n\n" + bodyText;	
+	current.update();
+}]]></script>
+        <stop_processing>true</stop_processing>
+        <sys_class_name>sysevent_in_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-17 14:57:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>17c7f1aedb13130043fc9444ca961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Test123 Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test123" source="x_11849_test123">66a7b16edb13130043fc9444ca96195d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test123">66a7b16edb13130043fc9444ca96195d</sys_scope>
+        <sys_update_name>sysevent_in_email_action_17c7f1aedb13130043fc9444ca961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-17 14:57:17</sys_updated_on>
+        <table>x_11849_test123_request</table>
+        <template/>
+        <type>reply</type>
+    </sysevent_in_email_action>
+</record_update>

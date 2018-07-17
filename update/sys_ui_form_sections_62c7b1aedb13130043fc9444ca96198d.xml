@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="62c7b1aedb13130043fc9444ca96198d" sys_domain="global" table="x_11849_test123_sf_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 14:57:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aac7b1aedb13130043fc9444ca96198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_11849_test123_sf_task" name="x_11849_test123_sf_task" sys_domain="global" view="Default view">62c7b1aedb13130043fc9444ca96198d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_11849_test123_sf_task" sys_domain="global" view="Default view">eec7b1aedb13130043fc9444ca961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-17 14:57:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 14:57:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eec7b1aedb13130043fc9444ca961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_11849_test123_sf_task" name="x_11849_test123_sf_task" sys_domain="global" view="Default view">62c7b1aedb13130043fc9444ca96198d</sys_ui_form>
+            <sys_ui_section caption="Manual" display_value="Manual" name="x_11849_test123_sf_task" sys_domain="global" view="Default view">62c7b1aedb13130043fc9444ca961992</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-17 14:57:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 14:57:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aec7b1aedb13130043fc9444ca96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_11849_test123_sf_task" name="x_11849_test123_sf_task" sys_domain="global" view="Default view">62c7b1aedb13130043fc9444ca96198d</sys_ui_form>
+            <sys_ui_section caption="Automatic" display_value="Automatic" name="x_11849_test123_sf_task" sys_domain="global" view="Default view">e2c7b1aedb13130043fc9444ca961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-17 14:57:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 14:57:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6c7b1aedb13130043fc9444ca9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_11849_test123_sf_task" name="x_11849_test123_sf_task" sys_domain="global" view="Default view">62c7b1aedb13130043fc9444ca96198d</sys_ui_form>
+            <sys_ui_section caption="Field Controls" display_value="Field Controls" name="x_11849_test123_sf_task" sys_domain="global" view="Default view">a6c7b1aedb13130043fc9444ca96199f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-17 14:57:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_11849_test123_sf_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 14:57:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62c7b1aedb13130043fc9444ca96198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_11849_test123_sf_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test123" source="x_11849_test123">66a7b16edb13130043fc9444ca96195d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test123">66a7b16edb13130043fc9444ca96195d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_62c7b1aedb13130043fc9444ca96198d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-17 14:57:14</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

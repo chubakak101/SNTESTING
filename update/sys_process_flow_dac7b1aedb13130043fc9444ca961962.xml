@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_11849_test123_request">state=11^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="11"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description><![CDATA[<p>Awaiting Approval Condition for Test123 Request. </p>]]></description>
+        <label>Awaiting Approval</label>
+        <name>Awaiting Approval</name>
+        <order>13</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-17 14:57:13</sys_created_on>
+        <sys_id>dac7b1aedb13130043fc9444ca961962</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Awaiting Approval</sys_name>
+        <sys_package display_value="Test123" source="x_11849_test123">66a7b16edb13130043fc9444ca96195d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test123">66a7b16edb13130043fc9444ca96195d</sys_scope>
+        <sys_update_name>sys_process_flow_dac7b1aedb13130043fc9444ca961962</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-17 14:57:13</sys_updated_on>
+        <table>x_11849_test123_request</table>
+    </sys_process_flow>
+</record_update>

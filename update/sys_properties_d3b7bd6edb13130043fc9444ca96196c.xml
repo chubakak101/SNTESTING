@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Percentage to add to all travel times</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_11849_test123.travel.buffer</name>
+        <read_roles>x_11849_test123_admin</read_roles>
+        <suffix>travel.buffer</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-17 14:57:01</sys_created_on>
+        <sys_id>d3b7bd6edb13130043fc9444ca96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_11849_test123.travel.buffer</sys_name>
+        <sys_package display_value="Test123" source="x_11849_test123">66a7b16edb13130043fc9444ca96195d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test123">66a7b16edb13130043fc9444ca96195d</sys_scope>
+        <sys_update_name>sys_properties_d3b7bd6edb13130043fc9444ca96196c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-17 14:57:01</sys_updated_on>
+        <type>integer</type>
+        <value>0</value>
+        <write_roles>x_11849_test123_admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=d3b7bd6edb13130043fc9444ca96196c"/>
+</record_update>

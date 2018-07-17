@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Test123 Geolocation">51c7fd6edb13130043fc9444ca9619d1</category>
+        <order>1</order>
+        <property display_value="x_11849_test123.morning.rush.hours" name="x_11849_test123.morning.rush.hours">7eb7bd6edb13130043fc9444ca96193a</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-17 14:57:09</sys_created_on>
+        <sys_id>5dc7fd6edb13130043fc9444ca9619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_11849_test123.morning.rush.hours.Test123 Geolocation</sys_name>
+        <sys_package display_value="Test123" source="x_11849_test123">66a7b16edb13130043fc9444ca96195d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test123">66a7b16edb13130043fc9444ca96195d</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_5dc7fd6edb13130043fc9444ca9619ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-17 14:57:09</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

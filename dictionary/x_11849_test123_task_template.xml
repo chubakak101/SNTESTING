@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_servicetask_product_model" label="Test123 Task Template" max_length="40" name="x_11849_test123_task_template" type="collection"/>
+</database>

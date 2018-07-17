@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_11849_test123_sf_request">
+    <x_11849_test123_sf_request action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <automatic_condition/>
+        <automatic_roles/>
+        <automatic_script/>
+        <automatic_string>new sn_sm.SMConfiguration().isEnabled(current, "request_driven", false) &amp;&amp; (new global.SMTask()).isAssigned(current)</automatic_string>
+        <business_rule display_value="Assigned">bba73d6edb13130043fc9444ca96191e</business_rule>
+        <change_client_script/>
+        <client_script/>
+        <comment>Test123 Request State flow</comment>
+        <derived_from display_value="Assigned">cf3c878147232100158b949b6c9a7148</derived_from>
+        <end_text>16</end_text>
+        <ending_state display_value="Assigned">faa7b96edb13130043fc9444ca9619d9</ending_state>
+        <event/>
+        <event_rule/>
+        <mandatory_fields/>
+        <manual_condition/>
+        <manual_roles/>
+        <manual_script/>
+        <manual_string/>
+        <name>Assigned</name>
+        <not_mandatory/>
+        <not_read_only/>
+        <not_visible/>
+        <number>SF0010009</number>
+        <override/>
+        <read_only_fields/>
+        <roles/>
+        <start_text>10</start_text>
+        <starting_state display_value="Ready for Dispatch">3aa7b96edb13130043fc9444ca9619d5</starting_state>
+        <sys_class_name>x_11849_test123_sf_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-17 14:56:47</sys_created_on>
+        <sys_id>f3a73d6edb13130043fc9444ca96191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assigned</sys_name>
+        <sys_package display_value="Test123" source="x_11849_test123">66a7b16edb13130043fc9444ca96195d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test123">66a7b16edb13130043fc9444ca96195d</sys_scope>
+        <sys_update_name>x_11849_test123_sf_request_f3a73d6edb13130043fc9444ca96191e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-17 14:56:47</sys_updated_on>
+        <table>x_11849_test123_request</table>
+        <translated_ending_state>Assigned</translated_ending_state>
+        <translated_starting_state>Ready for Dispatch</translated_starting_state>
+        <ui_action/>
+        <visible_fields/>
+        <work_notes/>
+        <work_notes_rule/>
+    </x_11849_test123_sf_request>
+</record_update>

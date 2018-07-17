@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_order" label="Test123 Request" max_length="40" name="x_11849_test123_request" type="collection"/>
+</database>

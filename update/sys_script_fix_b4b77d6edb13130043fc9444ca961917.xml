@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <before>false</before>
+        <description>Automatically builds state flow start and end states</description>
+        <flush_cache>false</flush_cache>
+        <name>Test123 State Flow Builder</name>
+        <run_once>false</run_once>
+        <script><![CDATA[(new global.StateFlow()).rebuildFlows("x_11849_test123_request");
+(new global.StateFlow()).rebuildFlows("x_11849_test123_task");]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-17 14:56:50</sys_created_on>
+        <sys_id>b4b77d6edb13130043fc9444ca961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test123 State Flow Builder</sys_name>
+        <sys_package display_value="Test123" source="x_11849_test123">66a7b16edb13130043fc9444ca96195d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test123">66a7b16edb13130043fc9444ca96195d</sys_scope>
+        <sys_update_name>sys_script_fix_b4b77d6edb13130043fc9444ca961917</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-17 14:56:50</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>
