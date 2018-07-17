@@ -8,14 +8,14 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>Test123</name>
+        <name>Test456</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
-        <scope>x_11849_test123</scope>
+        <scope>x_11849_test456</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
-        <source>x_11849_test123</source>
+        <source>x_11849_test456</source>
         <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
